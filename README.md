@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://github.com/H-Keshk/3-Column-Card-HTML-CSS-)
+- Live Site URL: [Live site URL](https://h-keshk.github.io/3-Column-Card-HTML-CSS-/)
 
 ## Author
 
