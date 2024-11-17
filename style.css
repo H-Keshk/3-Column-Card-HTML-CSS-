@@ -111,7 +111,7 @@ button:hover {
 
 
 /* BreakPoints */
-@media (max-width:991rem) {
+@media (max-width:991px) {
   .card {
     width: 30%;
   }
